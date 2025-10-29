@@ -14,11 +14,10 @@ This work fulfills the requirements of Assignment #1 for ENCS5341: Machine Learn
 
 ## 📁 Project Structure
 
-| File | Description |
-|------|-------------|
-| Assignment_1.py | Main script (preprocessing + EDA) |
-| customer_data.csv | Input dataset (required) |
-| README.md | Project documentation |
+- **Assignment_1.py** — Main script (preprocessing + EDA)
+- **customer_data.csv** — Input dataset (required)
+- **README.md** — Project documentation
+
 
 
 
